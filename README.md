@@ -1,4 +1,4 @@
-# Agentic RAG with Groq — Laptop Knowledge Assistant
+# Agentic RAG with Groq - Laptop Knowledge Assistant
 
 > **From "retrieve then answer" to "an agent that decides to retrieve, reads the evidence, and answers only from it."**
 
