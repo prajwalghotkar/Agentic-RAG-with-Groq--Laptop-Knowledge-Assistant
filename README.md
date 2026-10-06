@@ -6,6 +6,23 @@ An Agentic Retrieval-Augmented Generation (RAG) system built on a local laptop k
 
 ---
 
+
+
+
+
+
+
+https://github.com/user-attachments/assets/096adf9e-9662-4080-be76-5326d15db438
+
+
+
+
+
+
+
+
+
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
