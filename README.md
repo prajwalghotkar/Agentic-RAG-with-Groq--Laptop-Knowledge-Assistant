@@ -26,7 +26,6 @@ An Agentic Retrieval-Augmented Generation (RAG) system built on a local laptop k
 16. [Known Limitations](#16-known-limitations)
 17. [Roadmap: Making It Production-Grade](#17-roadmap-making-it-production-grade)
 18. [Troubleshooting](#18-troubleshooting)
-19. [Author](#19-author)
 
 ---
 
